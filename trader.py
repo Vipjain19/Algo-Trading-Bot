@@ -215,8 +215,8 @@ class LongShortTrader():
 
 
 if __name__ == "__main__":
-    api_key = "kVwsOUMrqQfUKIM9xjVLd1p8y2eBIFPLvBDXAq0PmBAJ8DWVk2dZ3WYRTBow6Pki"
-    secret_key = "TBGDNzcdAXkf0xvlFwlMHEfP9WjAYvUSIJb6m3uPf5f0m1bQpsBK06dIlgsMpyMV" 
+    api_key = "Api Key here"
+    secret_key = "Secret Key here" 
     
     client = Client(api_key = api_key, api_secret = secret_key, tld = "com", testnet = True)
     symbol = "BTCUSDT"
