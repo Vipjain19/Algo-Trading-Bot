@@ -1,2 +1,2 @@
-# Algo-Trdaing-Bot
+# Algo-Trading-Bot
 Crypto trading bot using binance api
